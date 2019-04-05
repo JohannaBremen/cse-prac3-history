@@ -1,0 +1,4 @@
+11 commits
+Latest commit 20 Mar 2018
+Author of commits: Stopa
+Changes in commit: Added local configuration data
